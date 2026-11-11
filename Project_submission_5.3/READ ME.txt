@@ -1,0 +1,23 @@
+Human Activity Recognition – Deliverable 5.3
+Fully Connected Neural Network
+
+Files Included:
+- features.csv
+- fcnn_model.keras
+- code.ipynb
+
+Requirements:
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- tensorflow
+
+How to Run:
+1. Place features.csv in the same directory.
+2. Open code.ipynb in Jupyter Notebook.
+3. Run cells sequentially.
+
+Notes:
+This model uses engineered features from the previous deliverable.
+It is designed to be simple and easy to explain.
